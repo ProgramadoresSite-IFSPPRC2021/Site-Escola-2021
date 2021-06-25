@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+.imagem{
+}
+img{
+width: 350px;
+height: 300px;
+box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+border-radius: 8px;
+}
+.audio{
+   width: 300px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+.texto{
+padding: 20px;
+}
+.rb{
+text-align: center;
+border: 3px solid;
+}
+.prb {
+	font-family:"Poppins";
+	text-align: center;
+}
+p {
+font-family:"Poppins";
+text-align: justify;
+}
+h3 {
+font-family:"Poppins";
+text-align: center;
+}
+h4{
+font-family:"Poppins";
+text-align: center;
+}
